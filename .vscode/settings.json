@@ -1,0 +1,11 @@
+{
+  "python.analysis.autoSearchPaths": true,
+  "python.analysis.extraPaths": [
+    "${workspaceFolder}"
+  ],
+  "python.linting.enabled": true,
+  "python.linting.pylintEnabled": true,
+  "python.formatting.provider": "black",
+  "terminal.integrated.defaultProfile.windows": "Ubuntu (WSL)"
+}
+
